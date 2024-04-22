@@ -1,0 +1,257 @@
+@media only screen and (min-width: 1100px) {
+    body {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('img/image6.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+
+    .artist {
+        width: 100%;
+
+    }
+
+    .mid {
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    h1, a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .jonny {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('img/image11.jpg');
+        background-size: cover !important;
+        height: 60% !important;
+        width: 25% !important;
+        position: relative;
+        float: left;
+        margin-top: 100px;
+        background-repeat: no-repeat;
+        border: solid;
+        border-color: white;
+    }
+
+        .jonny:hover {
+            background: linear-gradient(rgba(0, 0, 50, 0.2),rgba(0, 0, 50, 0.2)), url('img/image11.jpg');
+            transform: scale(1.05);
+            transition-duration: 0.5s;
+        }
+
+        .jonny button {
+            margin-left: 25px;
+            margin-top: 25px;
+            border: none;
+            outline: none;
+        }
+
+    .kerry {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('img/image13.jpg');
+        background-size: cover !important;
+        height: 60% !important;
+        width: 25% !important;
+        position: relative !important;
+        float: left;
+        margin-top: 100px;
+        background-repeat: no-repeat !important;
+        border: solid;
+        border-color: white;
+    }
+
+        .kerry:hover {
+            background: linear-gradient(rgba(0, 0, 50, 0.2),rgba(0, 0, 50, 0.2)), url('img/image13.jpg');
+            transform: scale(1.05);
+            transition-duration: 0.5s;
+        }
+
+        .kerry button {
+            margin-left: 25px !important;
+            margin-top: 25px !important;
+            border: none;
+            outline: none;
+        }
+
+    .judy {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('img/image15.jpg');
+        background-size: cover !important;
+        height: 60% !important;
+        width: 25% !important;
+        position: relative;
+        float: left;
+        margin-top: 100px;
+        background-repeat: no-repeat;
+        border: solid;
+        border-color: white;
+    }
+
+        .judy:hover {
+            background: linear-gradient(rgba(0, 0, 50, 0.2),rgba(0, 0, 50, 0.2)), url('img/image15.jpg');
+            transform: scale(1.05);
+            transition-duration: 0.5s;
+        }
+
+        .judy button {
+            margin-left: 25px;
+            margin-top: 25px;
+            border: none;
+            outline: none;
+        }
+
+    .panam {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('img/image14.jpg');
+        background-size: cover !important;
+        height: 60% !important;
+        width: 25% !important;
+        position: relative !important;
+        float: left;
+        margin-top: 100px;
+        background-repeat: no-repeat !important;
+        border: solid;
+        border-color: white;
+    }
+
+        .panam:hover {
+            background: linear-gradient(rgba(0, 0, 50, 0.2),rgba(0, 0, 50, 0.2)), url('img/image14.jpg');
+            transform: scale(1.05);
+            transition-duration: 0.5s;
+        }
+
+        .panam button {
+            margin-left: 25px !important;
+            margin-top: 25px !important;
+            border: none;
+            outline: none;
+        }
+}
+@media only screen and (max-width: 1100px) {
+    body {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('img/image6.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+
+    .artist {
+        width: 100%;
+    }
+
+    .mid {
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    h1, a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .jonny {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('img/image11.jpg');
+        background-size: cover !important;
+        height: 45% !important;
+        width: 50% !important;
+        position: relative;
+        float: left;
+        margin-top: 5%;
+        background-repeat: no-repeat;
+        border: solid;
+        border-color: white;
+    }
+
+        .jonny:hover {
+            background: linear-gradient(rgba(0, 0, 50, 0.2),rgba(0, 0, 50, 0.2)), url('img/image11.jpg');
+            transform: scale(1.05);
+            transition-duration: 0.5s;
+        }
+
+        .jonny button {
+            margin-left: 25px;
+            margin-top: 25px;
+            border: none;
+            outline: none;
+        }
+
+    .kerry {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('img/image13.jpg');
+        background-size: cover !important;
+        height: 45% !important;
+        width: 50% !important;
+        position: relative !important;
+        float: left;
+        margin-top: 5%;
+        background-repeat: no-repeat !important;
+        border: solid;
+        border-color: white;
+    }
+
+        .kerry:hover {
+            background: linear-gradient(rgba(0, 0, 50, 0.2),rgba(0, 0, 50, 0.2)), url('img/image13.jpg');
+            transform: scale(1.05);
+            transition-duration: 0.5s;
+        }
+
+        .kerry button {
+            margin-left: 25px !important;
+            margin-top: 25px !important;
+            border: none;
+            outline: none;
+        }
+
+    .judy {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('img/image15.jpg');
+        background-size: cover !important;
+        height: 45% !important;
+        width: 50% !important;
+        position: relative;
+        float: left;
+        margin-top: 5%;
+        background-repeat: no-repeat;
+        border: solid;
+        border-color: white;
+    }
+
+        .judy:hover {
+            background: linear-gradient(rgba(0, 0, 50, 0.2),rgba(0, 0, 50, 0.2)), url('img/image15.jpg');
+            transform: scale(1.05);
+            transition-duration: 0.5s;
+        }
+
+        .judy button {
+            margin-left: 25px;
+            margin-top: 25px;
+            border: none;
+            outline: none;
+        }
+
+    .panam {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('img/image14.jpg');
+        background-size: cover !important;
+        height: 45% !important;
+        width: 50% !important;
+        position: relative !important;
+        float: left;
+        margin-top: 5%;
+        background-repeat: no-repeat !important;
+        border: solid;
+        border-color: white;
+    }
+
+        .panam:hover {
+            background: linear-gradient(rgba(0, 0, 50, 0.2),rgba(0, 0, 50, 0.2)), url('img/image14.jpg');
+            transform: scale(1.05);
+            transition-duration: 0.5s;
+        }
+
+        .panam button {
+            margin-left: 25px !important;
+            margin-top: 25px !important;
+            border: none;
+            outline: none;
+        }
+}
+
+}

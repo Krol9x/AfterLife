@@ -1,0 +1,65 @@
+@media only screen and (min-width: 700px) {
+    body {
+    }
+
+    .all {
+        color: white;
+    }
+
+    .all, table {
+        margin: 0 auto;
+        color: white;
+        padding: 20px;
+    }
+
+    .all, table, tr, td {
+        padding: 40px;
+    }
+
+        .all table tr td {
+            border-bottom: 1px solid white;
+        }
+
+    h4 {
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    h5 {
+        margin-top: 30px;
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 700px) {
+    body {
+    }
+
+    .all {
+        color: white;
+    }
+
+    .all, table {
+        margin: 0 auto;
+        color: white;
+        padding: 20px;
+    }
+
+    .all, table, tr, td {
+        padding: 20px;
+    }
+
+        .all table tr td {
+            border-bottom: 1px solid white;
+        }
+
+    h4 {
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    h5 {
+        margin-top: 30px;
+        text-align: center;
+    }
+}
+

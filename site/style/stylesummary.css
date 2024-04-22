@@ -1,0 +1,45 @@
+
+body {
+    background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url('image101.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.all {
+    margin: 0 auto;
+    height: 400px;
+    width: 500px;
+    color: white;
+}
+
+.summary {
+    float: left;
+    top: 100px;
+}
+
+.summary h1 {
+        text-align: center;
+        margin-top: 100px;
+    }
+
+.button-box {
+    margin: 100px auto;
+    width: fit-content;
+}
+
+button {
+    padding: 20px 40px !important;
+    margin-left: 5px !important;
+}
+
+input[type=tel] {
+    width: 50%;
+    padding: 16px 20px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    border-radius: 25px;
+    outline: none;
+}

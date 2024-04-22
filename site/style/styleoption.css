@@ -1,0 +1,140 @@
+@media only screen and (min-width: 1500px) {
+
+    body {
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+
+
+    .left {
+        position: relative;
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+
+    .right {
+        float: left;
+        width: 50%;
+        height: 100%;
+        position: relative;
+    }
+
+    .opcja1 {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)), url('img/opcja1.jpg');
+        height: 100%;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: -30px;
+    }
+
+    .opcja2 {
+        background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)), url('img/opcja2.jpg');
+        height: 100%;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: -30px;
+    }
+
+    .opcja1:hover {
+        background: url('img/opcja1.jpg');
+        color: purple;
+        background-repeat: no-repeat;
+        background-size: cover;
+        transition-duration: 0.5s;
+    }
+
+    .opcja2:hover {
+        background: url('img/opcja2.jpg');
+        color: purple;
+        background-repeat: no-repeat;
+        background-size: cover;
+        transition-duration: 0.5s;
+    }
+
+    h2 {
+        position: relative;
+        bottom: -516px;
+        text-align: center;
+        font-family: 'UnifrakturCook';
+        font-size: 100px;
+    }
+
+    a {
+        text-decoration: none;
+    }
+}
+
+    @media only screen and (max-width: 1500px) {
+        body {
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+
+        .left {
+            position: relative;
+            float: left;
+            width: 100%;
+            height: 50%;
+        }
+
+        .right {
+            float: left;
+            width: 100%;
+            height: 50%;
+            position: relative;
+        }
+
+        .opcja1 {
+            background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)), url('img/opcja1.jpg');
+            height: 100%;
+            width: 100%;
+            background-repeat: no-repeat;
+            background-size: cover;
+            margin-top: -30px;
+        }
+
+        .opcja2 {
+            background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)), url('img/opcja2.jpg');
+            height: 100%;
+            width: 100%;
+            background-repeat: no-repeat;
+            background-size: cover;
+            margin-top: -30px;
+        }
+
+        .opcja1:hover {
+            background: url('img/opcja1.jpg');
+            color: purple;
+            background-repeat: no-repeat;
+            background-size: cover;
+            transition-duration: 0.5s;
+        }
+
+        .opcja2:hover {
+            background: url('img/opcja2.jpg');
+            color: purple;
+            background-repeat: no-repeat;
+            background-size: cover;
+            transition-duration: 0.5s;
+        }
+
+        h2 {
+            position: relative;
+            bottom: -216px;
+            text-align: center;
+            font-family: 'UnifrakturCook';
+            font-size: 100px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+    }
